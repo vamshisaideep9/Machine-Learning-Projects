@@ -1,9 +1,0 @@
-[2024-08-19 15:30:44,718] 23 root - INFO - Data ingestion process started
-[2024-08-19 15:30:44,718] 25 root - INFO - Reading data using pandas from the local system
-[2024-08-19 15:30:44,744] 27 root - INFO - Data reading completed successfully
-[2024-08-19 15:30:44,819] 31 root - INFO - Raw data saved at artifacts\raw.csv
-[2024-08-19 15:30:44,819] 33 root - INFO - Splitting data into train and test sets
-[2024-08-19 15:30:44,898] 38 root - INFO - Train data saved at artifacts\train.csv
-[2024-08-19 15:30:44,898] 39 root - INFO - Test data saved at artifacts\test.csv
-[2024-08-19 15:30:44,898] 41 root - INFO - Data ingestion completed successfully
-[2024-08-19 15:30:44,928] 73 root - INFO - Outliers Handling code
