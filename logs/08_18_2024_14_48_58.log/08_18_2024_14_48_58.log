@@ -1,0 +1,8 @@
+[2024-08-18 14:49:00,100] 22 root - INFO - Data ingestion process started
+[2024-08-18 14:49:00,100] 24 root - INFO - Reading data using pandas from the local system
+[2024-08-18 14:49:00,131] 26 root - INFO - Data reading completed successfully
+[2024-08-18 14:49:00,208] 30 root - INFO - Raw data saved at artifacts\raw.csv
+[2024-08-18 14:49:00,208] 32 root - INFO - Splitting data into train and test sets
+[2024-08-18 14:49:00,299] 37 root - INFO - Train data saved at artifacts\train.csv
+[2024-08-18 14:49:00,299] 38 root - INFO - Test data saved at artifacts\test.csv
+[2024-08-18 14:49:00,299] 40 root - INFO - Data ingestion completed successfully

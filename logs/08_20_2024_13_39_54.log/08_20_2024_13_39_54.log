@@ -1,0 +1,4 @@
+[2024-08-20 13:39:55,803] 97 werkzeug - WARNING -  * Debugger is active!
+[2024-08-20 13:39:55,807] 97 werkzeug - INFO -  * Debugger PIN: 144-409-439
+[2024-08-20 13:39:58,030] 97 werkzeug - INFO - 127.0.0.1 - - [20/Aug/2024 13:39:58] "POST / HTTP/1.1" 200 -
+[2024-08-20 13:39:58,377] 97 werkzeug - INFO - 127.0.0.1 - - [20/Aug/2024 13:39:58] "GET / HTTP/1.1" 200 -

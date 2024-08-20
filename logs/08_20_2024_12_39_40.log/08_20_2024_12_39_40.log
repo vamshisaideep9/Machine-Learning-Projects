@@ -1,0 +1,15 @@
+[2024-08-20 12:39:41,223] 24 root - INFO - Data ingestion process started
+[2024-08-20 12:39:41,223] 26 root - INFO - Reading data using pandas from the local system
+[2024-08-20 12:39:41,250] 28 root - INFO - Data reading completed successfully
+[2024-08-20 12:39:41,325] 32 root - INFO - Raw data saved at artifacts\raw.csv
+[2024-08-20 12:39:41,325] 34 root - INFO - Splitting data into train and test sets
+[2024-08-20 12:39:41,407] 39 root - INFO - Train data saved at artifacts\train.csv
+[2024-08-20 12:39:41,407] 40 root - INFO - Test data saved at artifacts\test.csv
+[2024-08-20 12:39:41,407] 42 root - INFO - Data ingestion completed successfully
+[2024-08-20 12:39:41,460] 90 root - INFO - Outliers capped on our trained data!
+[2024-08-20 12:39:41,476] 95 root - INFO - outliers capped on our test data!
+[2024-08-20 12:39:41,476] 29 root - INFO - Data Transformation started...
+[2024-08-20 12:39:41,477] 102 root - INFO - splitting train data into dependent and independent features
+[2024-08-20 12:39:41,481] 107 root - INFO - splitting test data into dependent and independent features
+[2024-08-20 12:39:41,523] 29 root - INFO - Splitting our data into dependent and independent features
+[2024-08-20 12:40:08,674] 81 root - INFO - best model found, Model Name is Random Forest, accuracy Score: 0.7860069657856996
